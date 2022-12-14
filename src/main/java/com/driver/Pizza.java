@@ -36,7 +36,6 @@ public class Pizza {
         this.isTakeAwayAdded=false;
         this.isToppingsAdded=false;
         this.isCheeseAdded=false;
-        this.isBillGenerated=false;
 
         this.bill="Base Price Of The Pizza: "+this.price+"\n";
 
